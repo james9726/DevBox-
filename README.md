@@ -3,8 +3,7 @@
 # 팀명: DevBox
 
 ## 프로젝트 (Korea IT Academy)
-이력서 작성과 코드 저장, share 를 위한 사이트 [클릭]
-(https://github.com/Tomneng/DevBox)
+이력서 작성과 코드 저장, share 를 위한 사이트 [클릭](https://github.com//Tomneng/DevBox)
 
 
 ## 기획의도
